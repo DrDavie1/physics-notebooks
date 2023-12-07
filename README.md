@@ -17,12 +17,24 @@ Defines a Hamiltonian matrix
 
 Finds the eigen values and states for a Quantum Harmonic oscillator in 1D.
 
+<img src="https://github.com/DrDavie1/quantum-eigenstates/blob/main/Media/harmosc.png" width="50%" height="50%">
+
+
 ### Part 4
 
 Finds the eigen values and states of a hydrogen atom with l = 0 in 1D and plots in 2D.
 
+#
+
+<img src="https://github.com/DrDavie1/quantum-eigenstates/blob/main/Media/3s.png" width="40%" height="40%">
+
 ### Extension
 
 - Finds the eigen values and states of a hydrogen atom with l > 0
+
+#
+
+<img src="https://github.com/DrDavie1/quantum-eigenstates/blob/main/Media/p.png" width="40%" height="40%">
+
 - Compares the efficiency of scipy eigen problem solvers.
     
