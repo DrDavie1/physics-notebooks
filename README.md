@@ -1,4 +1,4 @@
-# Quantum Eigenstates
+# Quantum Eigenstates ψ
 
 This problem was set as a university assignment within a jupyter notebook, however, I have removed specific assignement details from the notebook and will give details here. The main_code.py file contains the functions used to solve the problem. 
 
