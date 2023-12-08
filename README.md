@@ -1,6 +1,13 @@
 # Quantum Eigenstates
 
 This problem was set as a university assignment within a jupyter notebook, however, I have removed specific assignement details from the notebook and will give details here. The main_code.py file contains the functions used to solve the problem. 
+
+References:
+
+- [Griffiths, D.J. and Schroeter, D.F., 2018. Introduction to quantum mechanics. Cambridge university press](https://www.google.co.uk/books/edition/Introduction_to_Quantum_Mechanics/LWRnDwAAQBAJ?hl=en&gbpv=0).
+  - Chapter 2.3: The Harmonic Oscillator
+  - Chapter 4.2: The Hydrogen Atom
+
 #
 
 The code consisted of 4 parts including an extension.
