@@ -14,11 +14,28 @@ The code consisted of 4 parts including an extension.
 
 ### Part 1
 
-Plots a harmonic pontenial.
+Plots a harmonic pontenial defined by
+
+$$ V(x) = x^2 $$
 
 ### Part 2
 
-Defines a Hamiltonian matrix
+Defines a Hamiltonian matrix function. 
+
+The hamiltonian is given by: 
+
+$$ H = \frac{-\hbar^2}{2m}\frac{d^2}{dx^2} + V $$
+
+Applying the finite difference method and using dimensionless units, the KE matrix of the hamilonian $D$ is defined by:
+
+$$D_{i,i} = \frac{2}{(\Delta x)^2}$$
+
+$$D_{i,i+1} = D_{i,i-1} = \frac{-1}{(\Delta x)^2}$$
+
+Hence:
+
+$$ H = D+V $$
+
 
 ### Part 3
 
