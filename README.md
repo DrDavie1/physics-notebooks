@@ -2,7 +2,7 @@
 
 ### Contents:
 
-- [Linear Algebra: Quantum Eigenstates]()
+- [Linear Algebra: Quantum Eigenstates](https://github.com/DrDavie1/physics-notebooks/blob/main/quantum_states.ipynb)
 - PDEs: Diffusion
 - Monte Carlo Methods
 
